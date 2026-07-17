@@ -14,6 +14,11 @@ See [the goal at the front page](README.md#goal).
 
 You will at least have an Arduino with a minimal program uploaded onto it.
 
+It will look similar, but less complex, than this:
+
+[![Arduino and a breadboard](broadboard_20.jpg)](broadboard.jpg)
+[![Arduino Invaders](arduino_invaders_20.jpg)](arduino_invaders.jpg)
+
 ## Can I keep the Arduino?
 
 If you have brought one.
