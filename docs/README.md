@@ -7,6 +7,9 @@ tags:
 
 In this workshop, we will learn how to use an Arduino.
 
+[![Arduino and a breadboard](broadboard_20.jpg)](broadboard.jpg)
+[![Arduino Invaders](arduino_invaders_20.jpg)](arduino_invaders.jpg)
+
 ## Goal
 
 The goal of this workshop is that you are able to use
