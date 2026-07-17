@@ -9,7 +9,7 @@ In this workshop, we will learn how to use an Arduino.
 
 ## Goal
 
-The goal of this workshop is that you are able to use 
+The goal of this workshop is that you are able to use
 booklets, laptops and Arduinos to create a minimal electronic machine.
 
 ## Event details
